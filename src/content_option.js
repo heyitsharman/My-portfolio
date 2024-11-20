@@ -1,7 +1,7 @@
 const logotext = "Home";
 const meta = {
   title: "Harman Kaur",
-  description: "Hey There i am Harman kaur a future software developer",
+  description: "Hey There i am Harman kaur. I like to make stuff( mostly websites/ sometimes art).",
 };
 
 const introdata = {
