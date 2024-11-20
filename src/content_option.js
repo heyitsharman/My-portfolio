@@ -9,7 +9,7 @@ const introdata = {
   animated: {
     first: "I Like coding",
     second: "I'm learning DSA",
-    third: "I develop websites",
+    third: "I like to make stuff (mostly websites/ sometimes maybe art).",
   },
   description:
     "I love turning ideas into reality through code. Explore my portfolio to see how I craft innovative software solutions, and let's collaborate on bringing your next project to life!",
